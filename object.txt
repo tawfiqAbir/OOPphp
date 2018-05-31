@@ -1,0 +1,40 @@
+######################################
+datatype
+    -primitive
+        -string
+        -integer
+        -boolean
+        -float
+        -double
+    -structure
+        -object
+        -array
+//////////////////////////////
+what is object??
+-anything can be called as object
+-has some functions/behavior
+-object has attributes
+	-data about the object.
+////////////////////////////////
+what is object oriented programming???
+class
+	-object(instence)
+		-variables
+		-functions
+	-contains
+		-properties  
+		-functions
+
+-type of programming methedology
+-everything is object
+-define operations (functions)
+-divide-and-conquer strategy 
+
+
+
+//////////////////
+why we need oop???
+-reuseable
+-clear structure
+-easy to maintain
+-simplify 
